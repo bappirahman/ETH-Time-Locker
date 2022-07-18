@@ -1,0 +1,26 @@
+.logo {
+ margin: 8px;
+ display: inline-block;
+}
+
+.before {
+  height: 1.5px;
+  background-color: #bfbfbf;
+}
+.after {
+  height: 1.5px;
+  background-color: #bfbfbf;
+
+}
+.linkGroup {
+  /* display: block; */
+  float: right;
+  margin: 10px;
+}
+.link {
+  text-decoration: none;
+  font-size: 1.2rem;
+  margin: 10px;
+  font-weight: bold;
+  color: #3c7fc3;
+}
